@@ -1,0 +1,51 @@
+body{
+ background-color: black;
+    
+}
+ 
+#grad{
+ 
+ 
+}
+ 
+ 
+ 
+.myDiv{
+ background-image: linear-gradient(to top,purple, gold);
+ width: 150px;  
+ height: 150px;
+ border: 10px;
+ border-style: solid;
+ border-color: white;
+ margin-top: 250px;
+ margin-left: 830px;
+ border-radius: 30%;
+ 
+}
+ 
+.myTinyCircle{
+ background-color: white;
+ width: 10px;
+ height: 10px;
+ margin: 20px;
+ float: right;
+ border-radius: 100%;
+ 
+}
+ 
+.myBigCircle{
+ border: 10px;
+ border-style: solid;
+ border-color: white;
+ height: 50px;
+ width: 50px;
+ margin-top: 50px;
+ margin-left: 40px;
+ border-radius: 100%;
+}
+ 
+.myText{
+
+ color: white;
+ margin-left: 870px;
+}
